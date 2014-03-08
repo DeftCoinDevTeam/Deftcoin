@@ -56,8 +56,8 @@ Designer: Jonas Schnelli (based on the original bitcoin logo from Bitboy)
 License: MIT
 
 Icon: src/qt/res/images/splash.png, src/qt/res/images/splash_testnet.png
-      src/qt/res/src/vertcoin_testnet.png, src/qt/res/icons/vertcoin.icns
-      src/qt/res/icons/vertcoin.icns
+      src/qt/res/src/deftcoin_testnet.png, src/qt/res/icons/deftcoin.icns
+      src/qt/res/icons/deftcoin.icns
       
 Designer: Chris Webbs
 License: Creative Commons

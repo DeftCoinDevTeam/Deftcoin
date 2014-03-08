@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Vertcoin
-Comment=Vertcoin P2P Cryptocurrency
-Exec=/usr/bin/vertcoin-qt %u
+Name=Deftcoin
+Comment=Deftcoin P2P Cryptocurrency
+Exec=/usr/bin/deftcoin-qt %u
 Terminal=false
 Type=Application
-Icon=/usr/share/pixmaps/vertcoin128.png
+Icon=/usr/share/pixmaps/deftcoin128.png
 MimeType=x-scheme-handler/bitcoin;
 Categories=Office;
-Name[en_US]=vertcoin-qt.desktop
+Name[en_US]=deftcoin-qt.desktop

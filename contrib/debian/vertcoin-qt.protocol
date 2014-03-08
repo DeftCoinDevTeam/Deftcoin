@@ -1,6 +1,6 @@
 [Protocol]
-exec=vertcoin-qt '%u'
-protocol=vertcoin
+exec=deftcoin-qt '%u'
+protocol=deftcoin
 input=none
 output=none
 helper=true
