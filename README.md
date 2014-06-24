@@ -11,16 +11,16 @@ What is Deftcoin?
 ----------------
 
 Deftcoin is a lite version of Bitcoin using scrypt-adaptive-N as a proof-of-work algorithm.
-X13 Algo with KGW
-1.4 Billion total coins
-2560 Coins per Block
-60 second target time
-Halving every 6 months
-3 Confirms per TX
-2.5% premine
+- X13 Algo with KGW
+- 1.4 Billion total coins
+- 2560 Coins per Block
+- 60 second target time
+- Halving every 6 months
+- 3 Confirms per TX
+- 2.5% premine
 
 For more information, as well as an immediately useable, binary version of
-the Deftcoin client sofware, see http://www.deftcoin.org.
+the Deftcoin client sofware, see http://www.deftcoin.net.
 
 License
 -------
